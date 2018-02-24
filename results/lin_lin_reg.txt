@@ -1,0 +1,14 @@
+		(1)	(2)	(3)	(4)
+VARIABLES	LABELS	H-index	H-index	i10-index	i10-index
+					
+coffee_cons	weekly coffee consumption	0.803**	0.668**	1.367**	1.164**
+		(0.328)	(0.287)	(0.594)	(0.538)
+log_time_activity	log(years in activity)		4.586***		6.847***
+			(0.920)		(1.802)
+Constant	Constant	1.383	-8.988***	-2.533	-18.02***
+		(2.757)	(3.296)	(5.002)	(6.280)
+					
+Observations		54	54	54	54
+R-squared		0.134	0.360	0.130	0.298
+Robust standard errors in parentheses					
+*** p<0.01, ** p<0.05, * p<0.1					
